@@ -1,0 +1,11 @@
+moveit_setup_assistant_config:
+  URDF:
+    package: arm_description
+    relative_path: urdf/scara_describe.urdf
+    xacro_args: ""
+  SRDF:
+    relative_path: config/scara.srdf
+  CONFIG:
+    author_name: aradra
+    author_email: aashith101991@gmail.com
+    generated_timestamp: 1620138523

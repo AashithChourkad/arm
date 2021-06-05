@@ -1,0 +1,1 @@
+sudo apt install ros-noetic-controller-manager ros-noetic-position-controllers ros-noetic-joint-state-controller ros-noetic-joint-trajectory-controller ros-noetic-joint-limits-interface ros-noetic-transmission-interface 
